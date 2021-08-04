@@ -1,0 +1,12 @@
+C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Core\bin\Debug\net6.0\ProductOrdering.Core.deps.json
+C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Core\bin\Debug\net6.0\ProductOrdering.Core.dll
+C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Core\bin\Debug\net6.0\ref\ProductOrdering.Core.dll
+C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Core\bin\Debug\net6.0\ProductOrdering.Core.pdb
+C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Core\obj\Debug\net6.0\ProductOrdering.Core.csproj.AssemblyReference.cache
+C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Core\obj\Debug\net6.0\ProductOrdering.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Core\obj\Debug\net6.0\ProductOrdering.Core.AssemblyInfoInputs.cache
+C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Core\obj\Debug\net6.0\ProductOrdering.Core.AssemblyInfo.cs
+C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Core\obj\Debug\net6.0\ProductOrdering.Core.csproj.CoreCompileInputs.cache
+C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Core\obj\Debug\net6.0\ProductOrdering.Core.dll
+C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Core\obj\Debug\net6.0\ref\ProductOrdering.Core.dll
+C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Core\obj\Debug\net6.0\ProductOrdering.Core.pdb

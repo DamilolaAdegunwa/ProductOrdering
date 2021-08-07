@@ -19,6 +19,7 @@ using System.Threading.Tasks;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.AspNetCore.Identity;
 using ProductOrdering.Core.Domain.Entity;
+using ProductOrdering.BusinessLogic.Services;
 
 namespace ProductOrdering.WebAPI
 {
@@ -61,6 +62,10 @@ namespace ProductOrdering.WebAPI
                 .AddDefaultTokenProviders();
             services.AddControllersWithViews();
             services.AddControllers();
+
+            //custom services
+            services.AddScoped<IOrderService, OrderService>();
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "ProductOrdering.WebAPI", Version = "v1" });

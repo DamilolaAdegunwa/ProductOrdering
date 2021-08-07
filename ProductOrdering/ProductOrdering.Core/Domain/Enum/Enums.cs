@@ -19,4 +19,18 @@ namespace ProductOrdering.Core.Domain.Enum
     {
 
     }
+    public enum PaymentType
+    {
+        Wallet = 0,
+        POS = 1,
+        DebitCard = 2,
+    }
+    public enum PaymentStatus
+    {
+
+    }
+    public enum PaymentApprovalStatus
+    {
+
+    }
 }

@@ -25,7 +25,8 @@ namespace ProductOrdering.Data.EFContext
         public DbSet<User> Users { get; set; }
         public DbSet<Role> Roles { get; set; }
 
-        //public DbSet<Supplier> Suppliers { get; set; }
+        public DbSet<Supplier> Suppliers { get; set; }
+        public DbSet<Payment> Payments { get; set; }
         //public DbSet<Territory> Territories { get; set; }
         //public DbSet<Vendor> Vendor { get; set; }
         //public DbSet<Customer> Customers { get; set; }

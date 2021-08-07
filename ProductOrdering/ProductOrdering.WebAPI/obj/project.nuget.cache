@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wc6LVTzFzizsBTeI6l3AvZopdSqATeDNXFCAP/aRVmzUlCjP3LybG+3GngyAJVINLblk7CjOQgWHMaW6N+Iy5g==",
+  "dgSpecHash": "AFqiDpiiwU4Ty9wUn5DUQRYmI2A/2c0NkFNLPh/LAaKgOP2Jc3cq9u+KcQk9DQyMKKRqT5vu2UmBMDwJwJ6HYA==",
   "success": true,
   "projectFilePath": "C:\\Users\\damil\\source\\repos\\product_ordering\\ProductOrdering\\ProductOrdering.WebAPI\\ProductOrdering.WebAPI.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\damil\\.nuget\\packages\\azure.security.keyvault.secrets\\4.1.0\\azure.security.keyvault.secrets.4.1.0.nupkg.sha512",
     "C:\\Users\\damil\\.nuget\\packages\\cloudinarydotnet\\1.15.2\\cloudinarydotnet.1.15.2.nupkg.sha512",
     "C:\\Users\\damil\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\damil\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
     "C:\\Users\\damil\\.nuget\\packages\\mailkit\\2.14.0\\mailkit.2.14.0.nupkg.sha512",
     "C:\\Users\\damil\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.0-preview.6.21355.2\\microsoft.aspnetcore.authentication.jwtbearer.6.0.0-preview.6.21355.2.nupkg.sha512",
     "C:\\Users\\damil\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\6.0.0-preview.6.21355.2\\microsoft.aspnetcore.authentication.openidconnect.6.0.0-preview.6.21355.2.nupkg.sha512",

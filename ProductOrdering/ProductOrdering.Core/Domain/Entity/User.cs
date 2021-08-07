@@ -13,7 +13,7 @@ namespace ProductOrdering.Core.Domain.Entity
 {
     public class User : IdentityUser<long> //: FullAuditedEntity
     {
-
+        
         public string FullName { get; set; }
         public GenderType GenderType { get; set; }
         public DateTimeOffset DateOfBirth { get; set; }

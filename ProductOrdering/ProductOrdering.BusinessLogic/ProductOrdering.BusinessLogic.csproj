@@ -9,4 +9,9 @@
     <Folder Include="Services\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ProductOrdering.Core\ProductOrdering.Core.csproj" />
+    <ProjectReference Include="..\ProductOrdering.Data\ProductOrdering.Data.csproj" />
+  </ItemGroup>
+
 </Project>

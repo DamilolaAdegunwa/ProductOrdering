@@ -10,3 +10,8 @@ C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Dat
 C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Data\obj\Debug\net6.0\ProductOrdering.Data.dll
 C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Data\obj\Debug\net6.0\ref\ProductOrdering.Data.dll
 C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Data\obj\Debug\net6.0\ProductOrdering.Data.pdb
+C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Data\bin\Debug\net6.0\ProductOrdering.Core.dll
+C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Data\bin\Debug\net6.0\ProductOrdering.Core.pdb
+C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Data\obj\Debug\net6.0\ProductOrdering.Data.csproj.CopyComplete
+C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Data\bin\Debug\net6.0\ProductOrdering.Data.runtimeconfig.json
+C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Data\obj\Debug\net6.0\ProductOrdering.Data.genruntimeconfig.cache

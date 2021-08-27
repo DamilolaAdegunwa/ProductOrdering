@@ -6,11 +6,15 @@ using System.Threading.Tasks;
 
 namespace ProductOrdering.WebAPI.Controllers
 {
-    public class OrderController : Controller
+    [Route("api/[controller]")]
+    [ApiController]
+    public class OrderController : BaseController//Controller
     {
-        public IActionResult Index()
+        [Route("[action]")]
+        public string Index()
         {
-            return View();
+            return "Ok";
+            //return View();
         }
     }
 }

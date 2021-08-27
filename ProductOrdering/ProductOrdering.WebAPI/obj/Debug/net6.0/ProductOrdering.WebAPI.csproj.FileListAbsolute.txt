@@ -195,3 +195,4 @@ C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Web
 C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.WebAPI\bin\Debug\net6.0\MailKit.dll
 C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.WebAPI\bin\Debug\net6.0\MimeKit.dll
 C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.WebAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.WebAPI\bin\Debug\net6.0\log4net.dll

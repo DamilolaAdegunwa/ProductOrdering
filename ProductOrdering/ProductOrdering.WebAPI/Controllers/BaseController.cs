@@ -13,10 +13,6 @@ namespace ProductOrdering.WebAPI.Controllers
 {
     public class BaseController : Controller
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
         public static string GetStatusCodeValue( HttpStatusCode code)
         {
             return ((int)code).ToString();

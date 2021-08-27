@@ -20,6 +20,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.AspNetCore.Identity;
 using ProductOrdering.Core.Domain.Entity;
 using ProductOrdering.BusinessLogic.Services;
+using ProductOrdering.Data.UnitOfWork;
+using ProductOrdering.Core.Caching;
 
 namespace ProductOrdering.WebAPI
 {
@@ -64,6 +66,12 @@ namespace ProductOrdering.WebAPI
             services.AddControllers();
 
             //custom services
+            services.AddScoped(typeof(IDbContextProvider<>), typeof(UnitOfWorkDbContextProvider<>));
+            services.AddScoped(typeof(ApplicationDbContext));
+            services.AddScoped(typeof(DbContext));
+            services.AddScoped<IUnitOfWork, EfCoreUnitOfWork>();
+            services.AddScoped<ICacheManager, MemoryCacheManager>();
+            services.AddScoped<IServiceHelper, ServiceHelper>();
             services.AddScoped<IOrderService, OrderService>();
 
             services.AddSwaggerGen(c =>

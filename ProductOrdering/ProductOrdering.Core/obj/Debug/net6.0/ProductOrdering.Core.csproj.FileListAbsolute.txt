@@ -10,3 +10,4 @@ C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Cor
 C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Core\obj\Debug\net6.0\ProductOrdering.Core.dll
 C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Core\obj\Debug\net6.0\ref\ProductOrdering.Core.dll
 C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Core\obj\Debug\net6.0\ProductOrdering.Core.pdb
+C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Core\obj\Debug\net6.0\ProductOrdering.Core.ImplicitNamespaceImports.cs

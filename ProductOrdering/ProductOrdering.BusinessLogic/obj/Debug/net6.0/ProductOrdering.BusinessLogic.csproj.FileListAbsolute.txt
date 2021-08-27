@@ -15,3 +15,4 @@ C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Bus
 C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.BusinessLogic\bin\Debug\net6.0\ProductOrdering.Core.pdb
 C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.BusinessLogic\bin\Debug\net6.0\ProductOrdering.Data.pdb
 C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.BusinessLogic\obj\Debug\net6.0\ProductOrdering.BusinessLogic.csproj.CopyComplete
+C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.BusinessLogic\obj\Debug\net6.0\ProductOrdering.BusinessLogic.ImplicitNamespaceImports.cs

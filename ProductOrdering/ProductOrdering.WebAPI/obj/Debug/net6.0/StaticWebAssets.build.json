@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Joq864YUduYDGotjuH7gkBZnMEwUNgzG5dhD9K8OeMY=",
+  "Source": "ProductOrdering.WebAPI",
+  "BasePath": "_content/ProductOrdering.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "RelatedManifests": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

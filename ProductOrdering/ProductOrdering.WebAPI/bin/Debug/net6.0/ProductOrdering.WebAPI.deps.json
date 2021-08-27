@@ -1403,7 +1403,8 @@
           "MailKit": "2.14.0",
           "Microsoft.AspNetCore.Http": "2.2.2",
           "ProductOrdering.Core": "1.0.0",
-          "ProductOrdering.Data": "1.0.0"
+          "ProductOrdering.Data": "1.0.0",
+          "log4net": "2.0.12"
         },
         "runtime": {
           "ProductOrdering.BusinessLogic.dll": {}

@@ -79,9 +79,7 @@ C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Web
 C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.WebAPI\obj\Debug\net6.0\ProductOrdering.WebAPI.csproj.CoreCompileInputs.cache
 C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.WebAPI\obj\Debug\net6.0\ProductOrdering.WebAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.WebAPI\obj\Debug\net6.0\ProductOrdering.WebAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.WebAPI\obj\Debug\net6.0\staticwebassets\ProductOrdering.WebAPI.StaticWebAssets.Manifest.cache
 C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.WebAPI\obj\Debug\net6.0\scopedcss\bundle\ProductOrdering.WebAPI.styles.css
-C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.WebAPI\obj\Debug\net6.0\ProductOrdering.WebAPI.csproj.CopyComplete
 C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.WebAPI\obj\Debug\net6.0\ProductOrdering.WebAPI.dll
 C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.WebAPI\obj\Debug\net6.0\ref\ProductOrdering.WebAPI.dll
 C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.WebAPI\obj\Debug\net6.0\ProductOrdering.WebAPI.pdb
@@ -196,3 +194,9 @@ C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.Web
 C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.WebAPI\bin\Debug\net6.0\MimeKit.dll
 C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.WebAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
 C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.WebAPI\bin\Debug\net6.0\log4net.dll
+C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.WebAPI\bin\Debug\net6.0\ProductOrdering.WebAPI.staticwebassets.json
+C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.WebAPI\bin\Debug\net6.0\ProductOrdering.WebAPI.staticwebassets.runtime.json
+C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.WebAPI\bin\Debug\net6.0\ProductOrdering.WebAPI.StaticWebAssets.xml
+C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.WebAPI\obj\Debug\net6.0\ProductOrdering.WebAPI.ImplicitNamespaceImports.cs
+C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.WebAPI\obj\Debug\net6.0\ProductOrdering.WebAPI.StaticWebAssets.xml
+C:\Users\damil\source\repos\product_ordering\ProductOrdering\ProductOrdering.WebAPI\obj\Debug\net6.0\StaticWebAssets.build.json
